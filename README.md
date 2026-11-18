@@ -1,9 +1,10 @@
-# THE WORLD — Tuesday, 17 November 2026
+# news-image-20261117
 
-One image summing up the world news of Tuesday 17 November 2026, drawn
-as a one-page newspaper front page: masthead with the date, a markets
-ticker, a lead story, a dotted world map with numbered story markers,
-four more stories, and an IN BRIEF strip.
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/soshixos/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/soshixos/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+THE WORLD — Tuesday, 17 November 2026. One image summing up the world news of Tuesday 17 November 2026, drawn as a one-page newspaper front page: masthead with the date, a markets ticker, a lead story, a dotted world map with numbered story markers, four more stories, and an IN BRIEF strip.
 
 ## Stories in the image
 
@@ -41,3 +42,13 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
 Output: a 1024x1024 PNG, about 21 KB.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
+```
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=d1rnvwbk&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards
